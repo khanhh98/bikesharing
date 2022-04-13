@@ -33,3 +33,12 @@
   - The only difference of these 2 genders is higher amount of males' usage
 
 #### User trips by gender by weekday
+
+  ![Screen Shot 2022-04-13 at 11 11 18 AM](https://user-images.githubusercontent.com/63434761/163251961-75faa732-6878-4fea-a8e8-5a7deec898b9.png)
+  
+  - We have a bit more ingsights of different users who use the service
+    + Customer: they predominant use the bike on the weekend and hardly use this during weekday
+    + Subcribers: they mainly use the bike on the weekday
+ 
+ ### Summary
+ 
