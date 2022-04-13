@@ -19,4 +19,17 @@
 
 #### Trips by Weekday per hour
 
+  ![Screen Shot 2022-04-13 at 11 10 33 AM](https://user-images.githubusercontent.com/63434761/163248870-ecb1e2d4-79f9-46ee-8c31-e69733aa7270.png)
   
+  - Looking at this heatmap, we can see there are few notable timestamp where users use the service the most
+    + During weekday, the service is heavily used around 7 AM - 8 AM and 5 PM - 6 PM
+    + During weekend, the most busy windown timeframe is from 11 AM - 3 PM
+
+#### Trip by Gender(Weekday per hour) 
+
+  ![Screen Shot 2022-04-13 at 11 11 03 AM](https://user-images.githubusercontent.com/63434761/163249744-bfedaccb-a820-4c70-ba6a-a939a0e2c581.png)
+  
+  - The heatmap shows more details how both genders use the service with different hour. However, both use the bike in relatively same time
+  - The only difference of these 2 genders is higher amount of males' usage
+
+#### User trips by gender by weekday
