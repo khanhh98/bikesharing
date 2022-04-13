@@ -41,4 +41,11 @@
     + Subcribers: they mainly use the bike on the weekday
  
  ### Summary
- 
+  
+  - Looking at the charts, we can see that there are 2 types of bike users with different purposes
+    + For customers, their main purpose to use the bike seems to be roaming around the city on their free time hence the busiest time for them around 11 AM - 3 PM during the weekend
+    + For subsribers, they use the bike mainly during the weekday around 8 AM and 6 PM. Hence, they mostly use the bike to get to work maybe because of the rush hour
+  - Base on the analysis, we can also conclude that male users are the main customers
+  Recommendation: Since we know that man use the service heavily, we should run more graphs and heatmap to know more insights
+  
+  [Link to dashboard](https://public.tableau.com/app/profile/khanh.nguyen7504)
