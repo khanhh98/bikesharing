@@ -9,3 +9,6 @@
   
   - First glance of this graph, the peak tripduration is 5 minutes (about 146,752 bikes) and the usages of bikes significantly go down after 5 mintues
   - The graph also shows the usages of bikes after 60th minute are consistanly low
+
+#### For the checkout time with genders graph
+
