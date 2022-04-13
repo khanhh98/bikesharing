@@ -12,3 +12,11 @@
 
 #### For the checkout time with genders graph
 
+  ![Screen Shot 2022-04-13 at 11 10 15 AM](https://user-images.githubusercontent.com/63434761/163247268-06ca25e3-24b4-42d1-884d-ec401b5beaa2.png)
+
+  - The amount of males using the service is almost triple compares to female usage for 5 minutes tripduration (33,041 for female and 108,087 for male)
+  - After 50th minute, the amount of male and female using the bike service are relatively same
+
+#### Trips by Weekday per hour
+
+  
