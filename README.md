@@ -48,4 +48,4 @@
   - Base on the analysis, we can also conclude that male users are the main customers
   Recommendation: Since we know that man use the service heavily, we should run more graphs and heatmap to know more insights
   
-  [Link to dashboard](https://public.tableau.com/app/profile/khanh.nguyen7504)
+  [Link to dashboard](https://public.tableau.com/app/profile/khanh.nguyen7504/viz/Updatedtableau/AnalysisStory?publish=yes)
